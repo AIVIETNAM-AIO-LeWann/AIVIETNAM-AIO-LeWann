@@ -67,10 +67,18 @@ inventory rebalancing.
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+![PuLP](https://img.shields.io/badge/PuLP-3670A0?style=for-the-badge) ![DEAP](https://img.shields.io/badge/DEAP-4B8BBE?style=for-the-badge) ![NetworkX](https://img.shields.io/badge/NetworkX-013243?style=for-the-badge&logo=networkx&logoColor=white) ![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white)
+
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=AIVIETNAM-AIO-LeWann&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=AIVIETNAM-AIO-LeWann&theme=aura_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AIVIETNAM-AIO-LeWann&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=AIVIETNAM-AIO-LeWann&theme=aura_dark&hide_border=false&layout=compact&langs_count=20&card_width=495)
 
 ---
 [![](https://komarev.com/ghpvc/?username=AIVIETNAM-AIO-LeWann&icon=0&color=0)](https://visitcount.itsvg.in)
