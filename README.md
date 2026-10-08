@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm building practical machine learning applications with Python,<br>with a focus on demand forecasting, inventory optimization,<br>and visual document understanding.<br><br>My projects combine data processing, model development,<br>error analysis, and reproducible evaluation.<br><br>Recent work includes a Streamlit application for inter-store<br>inventory transfers and a Vietnamese document question-answering<br>pipeline that returns answers with supporting evidence regions.
+
 
 ## 🚀 Featured Projects
 
